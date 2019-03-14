@@ -1,0 +1,7 @@
+Variables naming: We will use Snake Case for everything.
+
+Functions: Using inplace = True when possible. Will use procedural programming paradigm.
+
+Libraries: Wil prioritize on using external libraries instead of creating our own.
+
+Conventions: Will follow PEP-8
