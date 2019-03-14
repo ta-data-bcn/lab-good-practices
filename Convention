@@ -5,3 +5,5 @@ Functions: Using inplace = True when possible. Will use procedural programming p
 Libraries: Wil prioritize on using external libraries instead of creating our own.
 
 Conventions: Will follow PEP-8
+
+Git: Will always pull before pushing. Will commit every time we do a major change (never longer than 30 min).
