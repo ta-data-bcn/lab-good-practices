@@ -18,24 +18,28 @@ FOLLOW PEP8 AS MUCH AS POSSIBLE!
     - max length of 79 characters
     - Camel Case for constants and 
     - for SQL and longer codes: use line breaks appropiately to keep clean code, align the lines 
+    - operator before variable
         
-        *eg: """ CREATE TABLE hello(
+        *eg: 
+         """ CREATE TABLE hello(
         
                     id INT,
                     
                     name VARCHAR(255)
                     
                     );
+                    """
     
-        *eg: income = (gross_wages +
+        *eg: 
+            income = (gross_wages
         
-                      taxable_interest +
+                      + taxable_interest
                       
-                      (dividends - qualified_dividends) -
+                      + (dividends - qualified_dividends)
                       
-                      ira_deduction -
+                      - ira_deduction
                       
-                      student_loan_interest)
+                      - student_loan_interest)
 * Function naming.
     - use verb in name to describe functions
 * Libraries.
