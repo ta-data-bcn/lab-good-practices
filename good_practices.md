@@ -18,15 +18,23 @@ FOLLOW PEP8 AS MUCH AS POSSIBLE!
     - max length of 79 characters
     - Camel Case for constants and 
     - for SQL and longer codes: use line breaks appropiately to keep clean code, align the lines 
+        
         *eg: """ CREATE TABLE hello(
+        
                     id INT,
+                    
                     name VARCHAR(255)
+                    
                     );
     
         *eg: income = (gross_wages +
+        
                       taxable_interest +
+                      
                       (dividends - qualified_dividends) -
+                      
                       ira_deduction -
+                      
                       student_loan_interest)
 * Function naming.
     - use verb in name to describe functions
@@ -35,7 +43,7 @@ FOLLOW PEP8 AS MUCH AS POSSIBLE!
     - save def funcitons separately insead of repeating and import those files to call on funcitons
 
 * Community conventions.
-- PEP 8
+    - PEP 8
 
 * Other (git, ...)
     - Work from one repo, clone it and branch if needed to work on group changes. 
