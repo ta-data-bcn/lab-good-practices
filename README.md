@@ -2,6 +2,7 @@
 
 # Lab | Good Practices
 
+Done with Miquel, Javier and Onur... See Miquel push
 ## Goals
 The goal of this lab is to define good practices that you and your team will follow during your third project.
 
