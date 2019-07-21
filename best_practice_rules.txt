@@ -1,0 +1,28 @@
+Best practices for team projects:
+
+1) Define a research question that I aligned with all members' Interest. Should give some useful and novel insights. 
+Should be achievable within time and other constrains. 
+
+
+2) Discuss methodology to answer question. What data to obtain. What source to use. APIs or Wrappers to get data. 
+
+
+3) Make schedule and divide the work. Have a plan B if things don't go as planned. 
+Have a long discussion at the start to ensure a shared vision but limit meeting later for new issues and progress meetings. 
+
+
+4) Define coding style and comply to it.
+Make rules for variable and function naming. Such as camel, kebab or snake word connectors (One can be used for variables another for functions). 
+Common names for each library import. 
+Make rules on how to shorten words for efficiency while still understandable.
+Mane logic names for functions, representing what they transform the input to. Also do this for the required inputs to the function and for the output being 'returned'
+Rules should be made for making comments, indentations and line lengths. 
+Also set rules for cleaning data such as what info to drop or change to get consistency as this can affect results significantly. 
+Don't edit existing code without consulting team members. If you notice an issue, take it up with your team mates and find a solution. 
+If they can not be reached, make a temporary code inlign with rules that can be changed at next meeting. 
+
+
+5) Communicate through Slack for easy sharing.
+Be constructive and keep a good mood to motivate all members.
+Also, We're here to learn so don't necessarily assign tasks that you are best at. Do paired 'driver' and 'navigator' coding to learn from each other. 
+Commit often! 
