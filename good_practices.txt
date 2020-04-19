@@ -1,0 +1,13 @@
+Francesco baldissera and Andreu Carreño's good practices:
+As code is red much more than written these good practices are in order to ease the readability of our code
+
+1. Use 4 spaces or a tab per identation level(unless it's a continuation line).
+2.Importing all libraries on top of the code and in separates lines.
+3. write descriptive and lower case function names.
+4. maximum line lentgh of 79 characters.
+5. we should break a line after a binary operator, not before.
+6. Code in the core Python distributiion should always use UTF-8.
+7.Paragraphs inside a block comment are separated by a line containing a single #.
+8. prioratize using local variables over global ones.
+9.Use panda data frames as much as possible. Sliced data frame should always be assigned 
+to a variable.
