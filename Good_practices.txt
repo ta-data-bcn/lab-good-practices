@@ -1,0 +1,7 @@
+Our team is compossed by Aitor Quinza and Javier Hita.
+Before starting the 3rd week's projects, we have agreed on some good practices, in order to work as smootly as possible. The agreed good practises are the following:
+- All the libraries importations, will be imported at the top of the script.
+- There repository will be compossed by 3 directories. The 1s with the scripts for data gathering, the 2nd with the csv's results from the data gathering scripts, and the 3rd with the data analysis scripts.
+- Each file has to be in its corresponding directory, according to the previously defined structure.
+- The functions with two words will be joined by an underscore.
+- Each script will be compossed by two parts. Functions definition and workflow (calling the previously defined functions).
