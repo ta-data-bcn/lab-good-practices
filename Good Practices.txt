@@ -1,0 +1,15 @@
+The team is composed of Beto Sibileau and Gareth Hughes.
+
+Our good practices, which we agreed in order to work fluidly, consists of the following.
+
+1) Label our jupyter notebooks by the section so that it's easier to get a quick overview
+of what that person is working on. 
+2) Ensure that all functions, subsets and images are well defined and well labelled 
+so that each team member can quickly analyse them without too much effort.
+3) With regard to Git, to begin with, utilise seperate files to commit our work to, 
+before merging into one repository once all the projects are complete and the 
+work is finalised. 
+4) Our jupyter notebooks will consist of data importing, data cleaning and then subsequent
+data analysis with outputs of PNGs.
+5) We have decided to utilise PNGs are as our image format as Google Slides does not support
+SVG files and we don't require high resolution.
