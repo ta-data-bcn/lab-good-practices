@@ -1,0 +1,31 @@
+1. Variable naming.
+1.1. key word for [type of data + name of data] - 'list_temperature'
+1.2. add prefixes to variable - dataframe temperatures should be 'df_temperatures'
+1.3. indexing subindexes -  'temperatures_df' in column Australia should be 'df_temperatures_australia'
+1.4. lowercase for all variables name
+1.5. Unique variable names
+
+2. Function naming.
+2.1. descriptive name - 'multiplier5'
+2.2. name limit of characters 35 - 'dataProcessingWithReverseArrangement'
+2.3. no symbols in function name - 'nameGenerator'
+2.4. separation between word Capitalized (camelCasing) - 'nameGenerator'
+2.5. use verb, verb-noun or verb-phrase syntax - 'multiplier5'
+
+3. Libraries.
+3.1. import libraries on top of the file
+3.2. do not import useless libraries
+3.3. functions library separated in a different file from main branch
+3.4. group similar functions in similar libraries
+3.5. descriptive name for each library
+3.6. start libraries name and different words capitalized (PascalCasing)
+
+4. Community conventions.
+4.1. PascalCasing for libraries
+4.2. camelCasing for functions
+4.3. lowercase for variable
+
+5. Other (git, ...)
+5.1. comments for every step
+5.2. titles for every block of code in markdown cells
+5.3. comments descriving variables on top of each block of code
